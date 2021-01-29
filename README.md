@@ -4,7 +4,7 @@
 
 This project uses King County housing prices to create a model that will predict housing prices in Seattle, WA
 
-## You will find several files including:
+## You will find the following files:
 1. Data Sets Used
 2. Working Notebooks
 3. Final Predictions
