@@ -9,6 +9,11 @@ This project uses King County housing prices to create a model that will predict
 2. Working Notebooks
 3. Final Predictions
 
+## Insights and Interpretation
+
+Factors that increased the price of a house are the amount of bedrooms and bathrooms, whether or not the home is on the waterfront, if the home has a view, whether the home has modern amenities and zipcode. 
+
+
 ## Codebook
 
 id - unique ID for a house
